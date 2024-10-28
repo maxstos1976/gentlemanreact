@@ -1,0 +1,9 @@
+.custom-button:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.custom-button:active {
+  background-color: #000000;
+  color: #ffffff;
+}
